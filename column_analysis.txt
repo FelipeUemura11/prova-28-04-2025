@@ -1,0 +1,253 @@
+Resultados da Análise de Colunas
+==============================
+
+Coluna: encounter_id
+Valores faltantes: 0 (0.00%)
+Valores únicos: 101766
+Valor mais comum: 12522 (0.00%)
+-------------------
+Coluna: patient_nbr
+Valores faltantes: 0 (0.00%)
+Valores únicos: 71518
+Valor mais comum: 88785891 (0.04%)
+-------------------
+Coluna: race
+Valores faltantes: 0 (0.00%)
+Valores únicos: 6
+Valor mais comum: Caucasian (74.78%)
+-------------------
+Coluna: gender
+Valores faltantes: 0 (0.00%)
+Valores únicos: 3
+Valor mais comum: Female (53.76%)
+-------------------
+Coluna: age
+Valores faltantes: 0 (0.00%)
+Valores únicos: 10
+Valor mais comum: [70-80) (25.62%)
+-------------------
+Coluna: weight
+Valores faltantes: 0 (0.00%)
+Valores únicos: 10
+Valor mais comum: ? (96.86%)
+-------------------
+Coluna: admission_type_id
+Valores faltantes: 0 (0.00%)
+Valores únicos: 8
+Valor mais comum: 1 (53.05%)
+-------------------
+Coluna: discharge_disposition_id
+Valores faltantes: 0 (0.00%)
+Valores únicos: 26
+Valor mais comum: 1 (59.19%)
+-------------------
+Coluna: admission_source_id
+Valores faltantes: 0 (0.00%)
+Valores únicos: 17
+Valor mais comum: 7 (56.50%)
+-------------------
+Coluna: time_in_hospital
+Valores faltantes: 0 (0.00%)
+Valores únicos: 14
+Valor mais comum: 3 (17.45%)
+-------------------
+Coluna: payer_code
+Valores faltantes: 0 (0.00%)
+Valores únicos: 18
+Valor mais comum: ? (39.56%)
+-------------------
+Coluna: medical_specialty
+Valores faltantes: 0 (0.00%)
+Valores únicos: 73
+Valor mais comum: ? (49.08%)
+-------------------
+Coluna: num_lab_procedures
+Valores faltantes: 0 (0.00%)
+Valores únicos: 118
+Valor mais comum: 1 (3.15%)
+-------------------
+Coluna: num_procedures
+Valores faltantes: 0 (0.00%)
+Valores únicos: 7
+Valor mais comum: 0 (45.84%)
+-------------------
+Coluna: num_medications
+Valores faltantes: 0 (0.00%)
+Valores únicos: 75
+Valor mais comum: 13 (5.98%)
+-------------------
+Coluna: number_outpatient
+Valores faltantes: 0 (0.00%)
+Valores únicos: 39
+Valor mais comum: 0 (83.55%)
+-------------------
+Coluna: number_emergency
+Valores faltantes: 0 (0.00%)
+Valores únicos: 33
+Valor mais comum: 0 (88.81%)
+-------------------
+Coluna: number_inpatient
+Valores faltantes: 0 (0.00%)
+Valores únicos: 21
+Valor mais comum: 0 (66.46%)
+-------------------
+Coluna: diag_1
+Valores faltantes: 0 (0.00%)
+Valores únicos: 717
+Valor mais comum: 428 (6.74%)
+-------------------
+Coluna: diag_2
+Valores faltantes: 0 (0.00%)
+Valores únicos: 749
+Valor mais comum: 276 (6.63%)
+-------------------
+Coluna: diag_3
+Valores faltantes: 0 (0.00%)
+Valores únicos: 790
+Valor mais comum: 250 (11.35%)
+-------------------
+Coluna: number_diagnoses
+Valores faltantes: 0 (0.00%)
+Valores únicos: 16
+Valor mais comum: 9 (48.62%)
+-------------------
+Coluna: max_glu_serum
+Valores faltantes: 96420 (94.75%)
+Valores únicos: 3
+Valor mais comum: Norm (2.55%)
+-------------------
+Coluna: A1Cresult
+Valores faltantes: 84748 (83.28%)
+Valores únicos: 3
+Valor mais comum: >8 (8.07%)
+-------------------
+Coluna: metformin
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (80.36%)
+-------------------
+Coluna: repaglinide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (98.49%)
+-------------------
+Coluna: nateglinide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (99.31%)
+-------------------
+Coluna: chlorpropamide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (99.92%)
+-------------------
+Coluna: glimepiride
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (94.90%)
+-------------------
+Coluna: acetohexamide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: glipizide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (87.53%)
+-------------------
+Coluna: glyburide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (89.53%)
+-------------------
+Coluna: tolbutamide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (99.98%)
+-------------------
+Coluna: pioglitazone
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (92.80%)
+-------------------
+Coluna: rosiglitazone
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (93.75%)
+-------------------
+Coluna: acarbose
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (99.70%)
+-------------------
+Coluna: miglitol
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (99.96%)
+-------------------
+Coluna: troglitazone
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: tolazamide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 3
+Valor mais comum: No (99.96%)
+-------------------
+Coluna: examide
+Valores faltantes: 0 (0.00%)
+Valores únicos: 1
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: citoglipton
+Valores faltantes: 0 (0.00%)
+Valores únicos: 1
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: insulin
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (46.56%)
+-------------------
+Coluna: glyburide-metformin
+Valores faltantes: 0 (0.00%)
+Valores únicos: 4
+Valor mais comum: No (99.31%)
+-------------------
+Coluna: glipizide-metformin
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (99.99%)
+-------------------
+Coluna: glimepiride-pioglitazone
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: metformin-rosiglitazone
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: metformin-pioglitazone
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (100.00%)
+-------------------
+Coluna: change
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: No (53.80%)
+-------------------
+Coluna: diabetesMed
+Valores faltantes: 0 (0.00%)
+Valores únicos: 2
+Valor mais comum: Yes (77.00%)
+-------------------
+Coluna: readmitted
+Valores faltantes: 0 (0.00%)
+Valores únicos: 3
+Valor mais comum: NO (53.91%)
+-------------------
